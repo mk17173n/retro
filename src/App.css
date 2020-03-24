@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.videoFrame {
+  width: 100% !important;
+  height: 1000px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.card {
+  background-color: blueviolet;
+}
